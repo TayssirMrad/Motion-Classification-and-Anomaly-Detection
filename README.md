@@ -20,6 +20,7 @@ Train an Anomaly Detection model using selected features for identifying unusual
 
 5- Model Testing:
 Evaluate the trained model's performance on test data, making adjustments to improve accuracy. 
+![test_model](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/d9cf05c9-f3ae-4472-ab2d-be9afb432ce2) 
 
 6-Deployment:
 Deploy the model on the  Arduino board and test its ability to classify machine states in real-time.
