@@ -7,6 +7,7 @@ Develop a machine learning system capable of categorizing machine states such as
 
 1 - Data Collection :
 Used a phone app to generate vibration then collect accelerometer data for different states. Label and gather sufficient data for both training and testing.
+![Screenshot 2023-11-15 233157](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/0bb6db28-da11-435b-8faf-611e01e055e9)
 
 2 -Feature Extraction:
 Employ Spectral Analysis, Neural Network, and K-means Anomaly Detection for feature extraction. 
