@@ -11,6 +11,7 @@ Used a phone app to generate vibration then collect accelerometer data for diffe
 
 2 -Feature Extraction:
 Employ Spectral Analysis, Neural Network, and K-means Anomaly Detection for feature extraction. 
+![Screenshot 2023-11-15 233415](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/20aa4517-948e-42f2-920d-124273da87c8) 
 
 3- Model Training:
 Train the Neural Network model, adjust hyperparameters if necessary, and ensure accuracy within acceptable ranges.
