@@ -15,6 +15,7 @@ Employ Spectral Analysis, Neural Network, and K-means Anomaly Detection for feat
 
 3- Model Training:
 Train the Neural Network model, adjust hyperparameters if necessary, and ensure accuracy within acceptable ranges.
+![Screenshot 2023-11-10 160321](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/b2dd04c8-2b4b-47cd-adb6-8f9258e81c9a)
 
 
 4-Anomaly Detection:
