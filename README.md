@@ -30,6 +30,8 @@ Generating features :
 3- Model Training:
 Train the Neural Network model, adjust hyperparameters if necessary, and ensure accuracy within acceptable ranges.
 
+NN Classifier :
+![test_model](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/d9cf05c9-f3ae-4472-ab2d-be9afb432ce2) 
 ![edge_impulse](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/6a80403f-6f3d-4ace-a210-bacfc95a8274)
 
 4-Anomaly Detection:
@@ -37,7 +39,8 @@ Train an Anomaly Detection model using selected features for identifying unusual
 
 5- Model Testing:
 Evaluate the trained model's performance on test data, making adjustments to improve accuracy. 
-![test_model](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/d9cf05c9-f3ae-4472-ab2d-be9afb432ce2) 
+
+![image](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/d06e1aad-d838-49bf-a8e0-6b1a72ca08ed)
 
 6-Deployment:
 Deploy the model on the  Arduino board and test its ability to classify machine states in real-time.
