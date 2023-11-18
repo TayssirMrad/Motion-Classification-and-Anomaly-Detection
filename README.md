@@ -49,3 +49,6 @@ Evaluate the trained model's performance on test data, making adjustments to imp
 
 6-Deployment:
 Deploy the model on the  Arduino board and test its ability to classify machine states in real-time.
+
+![image](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/00606265-f21d-4470-ab6f-059319edbdb2)
+
