@@ -12,18 +12,24 @@ Before I started collecting data, I connected the Arduino board. I ran the flash
 
 
 1 - Data Collection :
+
 Used a phone app to generate vibration then collect accelerometer data for different states. Label and gather sufficient data for both training and testing.
+
 ![Screenshot 2023-11-15 233157](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/0bb6db28-da11-435b-8faf-611e01e055e9)
 
 2 -Feature Extraction:
+
 Employ Spectral Analysis, Neural Network, and K-means Anomaly Detection for feature extraction. 
+
 ![Screenshot 2023-11-15 233415](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/20aa4517-948e-42f2-920d-124273da87c8) 
+
+Generating features :
+
+![Screenshot 2023-11-10 160321](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/b2dd04c8-2b4b-47cd-adb6-8f9258e81c9a)
 
 3- Model Training:
 Train the Neural Network model, adjust hyperparameters if necessary, and ensure accuracy within acceptable ranges.
 
-
-![Screenshot 2023-11-10 160321](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/b2dd04c8-2b4b-47cd-adb6-8f9258e81c9a)
 ![edge_impulse](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/6a80403f-6f3d-4ace-a210-bacfc95a8274)
 
 4-Anomaly Detection:
