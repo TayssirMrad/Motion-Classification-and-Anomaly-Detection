@@ -30,12 +30,17 @@ Generating features :
 3- Model Training:
 Train the Neural Network model, adjust hyperparameters if necessary, and ensure accuracy within acceptable ranges.
 
-NN Classifier :
 ![test_model](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/d9cf05c9-f3ae-4472-ab2d-be9afb432ce2) 
+
+NN Classifier :
+
 ![edge_impulse](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/6a80403f-6f3d-4ace-a210-bacfc95a8274)
 
 4-Anomaly Detection:
 Train an Anomaly Detection model using selected features for identifying unusual patterns in the data.
+
+![edge impulse2](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/9bb52489-72a4-4f45-abef-d0554c6cf07c)
+
 
 5- Model Testing:
 Evaluate the trained model's performance on test data, making adjustments to improve accuracy. 
