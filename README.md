@@ -1,11 +1,14 @@
 # Motion-Classification-and-Anomaly-Detection
 - Overview:
+
 A project focused on implementing an embedded machine learning system for classifying motion and vibration data from various machines. The objective is to detect operational modes and anomalies without modifying the machine.
 
 - Objective:
+
 Develop a machine learning system capable of categorizing machine states such as off, on, low load, high load, and anomalies using motion and vibration data.
 
 - Setup:
+
 Before I started collecting data, I connected the Arduino board. I ran the flash script in the .zip file (used .bat for Windows) to upload the EI firmware to the Arduino. After the flashing was complete, I pressed the reset button on the Arduino board. I then went back to my Edge Impulse project and verified that the Arduino board was connected.
 ![arduino](https://github.com/TayssirMrad/Motion-Classification-and-Anomaly-Detection/assets/60198040/4f267675-46e5-4300-ac7f-993709ec959b)
 
